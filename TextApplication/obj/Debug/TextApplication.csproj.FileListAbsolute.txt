@@ -1,0 +1,11 @@
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\obj\Debug\TextApplication.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\obj\Debug\TextApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\obj\Debug\TextApplication.Properties.Resources.resources
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\obj\Debug\TextApplication.TextApplication.resources
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\obj\Debug\TextApplication.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\obj\Debug\TextApplication.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\bin\Debug\TextApplication.exe.config
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\bin\Debug\TextApplication.exe
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\bin\Debug\TextApplication.pdb
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\obj\Debug\TextApplication.exe
+C:\Users\asus\OneDrive\Documents\GitHub\TextApplication\TextApplication\obj\Debug\TextApplication.pdb
